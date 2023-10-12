@@ -1,6 +1,6 @@
-# Snake Game
+# Pong Game
 
-A simple snake game created using Python Turtle
+A simple pong game created using Python Turtle
 
 ## Installation
 Notes: 
